@@ -1,10 +1,10 @@
-package com.tyy.client;
+package com.tyy.nacos;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class NacosClientApplicationTests {
+class NacosApplicationTests {
 
     @Test
     void contextLoads() {

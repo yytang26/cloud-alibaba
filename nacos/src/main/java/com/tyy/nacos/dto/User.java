@@ -1,4 +1,4 @@
-package com.tyy.client.dto;
+package com.tyy.nacos.dto;
 
 /**
  * @author:tyy
